@@ -7,3 +7,4 @@ Portfolio 1 is about exploring Steve Cassidy's 2016 and 2019 cycling and time tr
 
 _The data files come from [Strava](https://www.strava.com/) and are loaded by a custom function_.
 
+Language used: <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=20>
