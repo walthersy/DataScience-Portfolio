@@ -41,6 +41,6 @@ A similar analysis has also been done for Queensland's sports vouchers program.
 
 ## Portfolio 3  :phone:
 
-Portfolio 3 is about the _process_ of building a predictive model for analysing customer churn from a range of data that was generated (by [Hume Winzar](https://www.linkedin.com/in/humewinzar/) from Macquarie University) based on a real dataset provided by __Optus__. The data is simulated but the column headings are the same.
+Portfolio 3 is about the _process_ of building a predictive model for analysing customer churn from a range of data that was generated (by [Hume Winzar](https://www.linkedin.com/in/humewinzar/) from Macquarie University) based on a real dataset provided by __Optus__, a large Australian telecommunications company. The data is simulated but the column headings are the same.
 
-For the predictive model, I have used a Logistic Regression to predict customer churn and have achieved an accuracy score of about 72.85% after eliminating features that have less predictive power. A recursive feature elimination (RFE) method was used to reduce features.
+For the predictive modeling, I have used a __Logistic Regression__ and a __Multinomial Naive Bayes__ model to __predict customer churn__ and have compared the performance of the two. A __recursive feature elimination (RFE)__ method was used to reduce features and make the model more efficient. A __cross-validation__ technique was also used to compare the average scores that the Multinomial Naive Bayes model was able to achieve.
